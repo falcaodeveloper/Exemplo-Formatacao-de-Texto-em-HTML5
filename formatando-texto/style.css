@@ -11,5 +11,17 @@ p {
 
 a {
     text-decoration: none;
-    color: #2f9946;
+    color: white;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-weight: 900;
+}
+
+div {
+    background-color: hsla(240, 100%, 50%, 0.675);
+    border: 2px solid blue;
+    border-radius: 30px;
+    width: 10%;
+    padding: 4px;
 }
